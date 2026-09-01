@@ -2,13 +2,13 @@
 
 Software engineer in New York. TypeScript, React Native, Kotlin.
 
-Two years at **VMware** building event-driven integrations and infrastructure
-automation for a platform serving 2M+ users — a Kafka producer bridging a Java
+At **VMware**, July 2022 to March 2024, I built event-driven integrations and
+infrastructure automation for a platform serving 2M+ users — a Kafka producer bridging a Java
 service into a legacy Ruby monolith, a GraphQL endpoint handling 3,000+ daily
 events, and a workflow automation that cut a one-hour manual process to two clicks.
 
 Right now I am the sole engineer on **[Music-Looper](https://github.com/Escobar-Luis/music-looper-showcase)**,
-an Android app for rehearsing choreography — 88,000 lines of TypeScript, five
+an Android app for rehearsing choreography — 87,000+ lines of TypeScript, five
 custom Kotlin native modules, and real-time audio time-stretching that slows a song
 to half speed without shifting the pitch. In Play Store internal testing.
 
